@@ -1,4 +1,6 @@
-## Hi there 👋
+## CosmosMods
+
+A collection of Minecraft Mods for the Forge Modloader, currently using version 1.20.1 / 1.19.2.
 
 <!--
 
