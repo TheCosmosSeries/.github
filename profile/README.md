@@ -4,6 +4,10 @@
 
 A collection of Minecraft Mods for the Forge Modloader, currently using version 1.20.1 / 1.19.2.
 
+## Mod Page
+
+[The Cosmos Series on Modrinth](https://modrinth.com/organization/the-cosmos-series)
+
 <!--
 
 **Here are some ideas to get you started:**
