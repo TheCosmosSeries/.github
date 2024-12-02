@@ -1,4 +1,5 @@
-![the-cosmos-series-title-new](https://github.com/user-attachments/assets/01bd1f21-1eb9-492e-b1c4-90c193b0ae7a)
+![the-cosmos-series-title-new-1](https://github.com/user-attachments/assets/648fb72d-8dfd-44da-9825-7dd2fec3bd39)
+
 
 # The Cosmos Series
 
