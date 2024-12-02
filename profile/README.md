@@ -1,6 +1,6 @@
 ![the-cosmos-series-title-new](https://github.com/user-attachments/assets/01bd1f21-1eb9-492e-b1c4-90c193b0ae7a)
 
-## CosmosMods
+# The Cosmos Series
 
 A collection of Minecraft Mods for the Forge Modloader, currently using version 1.20.1 / 1.19.2.
 
