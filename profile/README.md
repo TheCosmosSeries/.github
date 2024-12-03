@@ -3,7 +3,9 @@
 
 # The Cosmos Series
 
-A collection of Minecraft Mods for the Forge Modloader, currently using version 1.20.1 / 1.19.2.
+A collection of Minecraft Mods created by TheCosmicNebula for Forge 1.20.1.
+
+This project is currently undergoing the transition to 1.21.1 and NeoForge.
 
 ## Mod Page
 
