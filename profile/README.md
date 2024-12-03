@@ -31,4 +31,4 @@ The series is currently undergoing the transition to 1.21.1 and NeoForge.
 
 ## **Modrinth Page**
 
-[The Cosmos Series on Modrinth](https://modrinth.com/organization/the-cosmos-series)
+The Cosmos Series on [Modrinth](https://modrinth.com/organization/the-cosmos-series)
