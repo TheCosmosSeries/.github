@@ -13,6 +13,16 @@
   &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="Light" src="https://github.com/user-attachments/assets/fae090d0-d4d2-438f-8e98-6c15e23ea540" width="45%">
 </p>
+<!--
+<p align="center">
+  <img alt="Dark" src="https://github.com/user-attachments/assets/814643c9-d61d-42f6-ac1c-6aacefc0282e" width="45%">
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Light" src="https://github.com/user-attachments/assets/5036ce07-6419-41dd-9924-e9b51248e3e8" width="45%">
+</p>
+<p align="center">
+  <img alt="Dark" src="https://github.com/user-attachments/assets/9adc5c9c-ef9a-4981-98b1-6ce9e299e069" width="45%">
+</p>
+--!>
 
 # The Cosmos Series
 
