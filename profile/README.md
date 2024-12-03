@@ -7,7 +7,7 @@ A collection of Minecraft Mods created by TheCosmicNebula for Forge 1.20.1.
 
 This project is currently undergoing the transition to 1.21.1 and NeoForge.
 
-## Mod Page
+## Modrinth Page
 
 [The Cosmos Series on Modrinth](https://modrinth.com/organization/the-cosmos-series)
 
