@@ -18,7 +18,7 @@
 
 A collection of Minecraft Mods created by TheCosmicNebula for Forge 1.20.1.
 
-This project is currently undergoing the transition to 1.21.1 and NeoForge.
+The series is currently undergoing the transition to 1.21.1 and NeoForge.
 
 ## Modrinth Page
 
