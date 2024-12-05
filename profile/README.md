@@ -20,7 +20,7 @@
 --!>
 
 <p align="center">
-  <a href="https://github.com/TheCosmosSeries/CosmosDecorations" target="_blank" style="text-decoration:none"><img alt="CosmosDecorations" src="https://github.com/user-attachments/assets/9adc5c9c-ef9a-4981-98b1-6ce9e299e069" width="45%"></a>
+  <a href="https://github.com/TheCosmosSeries/CosmosDecorations" target="_blank" style="text-decoration:none"><img alt="CosmosDecorations" src="https://github.com/user-attachments/assets/697ac98c-647a-41b4-8dc4-e1e8aef107ef" width="45%"></a>
 </p>
 
 # **The Cosmos Series**
