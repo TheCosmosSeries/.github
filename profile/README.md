@@ -22,6 +22,9 @@
 <p align="center">
   <a href="https://github.com/TheCosmosSeries/CosmosDecorations" target="_blank" style="text-decoration:none"><img alt="CosmosDecorations" src="https://github.com/user-attachments/assets/ad412e14-c17a-4f9f-a3a1-df2961b3bf66" width="45%"></a>
 </p>
+&nbsp; &nbsp; &nbsp; &nbsp;
+
+![Version](https://img.shields.io/badge/VERSION-1.20.1-success?style=for-the-badge) ![Mod Loader](https://img.shields.io/badge/LOADER-FORGE-success?style=for-the-badge) ![Mod Loader](https://img.shields.io/badge/Mods-4-blue?style=for-the-badge) ![Mod Loader](https://img.shields.io/badge/Packs-1-lightblue?style=for-the-badge)
 
 # **The Cosmos Series**
 
