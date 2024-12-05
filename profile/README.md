@@ -1,4 +1,4 @@
-[![the-cosmos-series-title-new-1](https://github.com/user-attachments/assets/648fb72d-8dfd-44da-9825-7dd2fec3bd39)]()
+[![the-cosmos-series-title-new-1](https://github.com/user-attachments/assets/648fb72d-8dfd-44da-9825-7dd2fec3bd39)](#)
 
 &nbsp; &nbsp; &nbsp; &nbsp;
 <p align="center">
