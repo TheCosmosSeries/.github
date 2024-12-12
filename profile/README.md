@@ -24,13 +24,13 @@
 </p>
 &nbsp; &nbsp; &nbsp; &nbsp;
 
-![Version](https://img.shields.io/badge/VERSION-1.20.1-success?style=for-the-badge) ![Mod Loader](https://img.shields.io/badge/LOADER-FORGE-success?style=for-the-badge) ![Mod Loader](https://img.shields.io/badge/Mods-4-blue?style=for-the-badge) ![Mod Loader](https://img.shields.io/badge/Packs-1-lightblue?style=for-the-badge)
+![Version](https://img.shields.io/badge/VERSION-1.21.1-3eff8e?style=for-the-badge) ![Loader](https://img.shields.io/badge/Loader-NeoForge-ffa835?style=for-the-badge) ![Mods](https://img.shields.io/badge/Mods-4-blue?style=for-the-badge) ![Packs](https://img.shields.io/badge/Packs-1-lightblue?style=for-the-badge)
 
 # **The Cosmos Series**
 
-A collection of Minecraft Mods created by TheCosmicNebula for Forge 1.20.1.
+A collection of Minecraft Mods created by TheCosmicNebula.
 
-The series is currently undergoing the transition to 1.21.1 and NeoForge.
+Currently supporting **1.21.1** and **NeoForge**.
 
 ## **Modrinth Page**
 
