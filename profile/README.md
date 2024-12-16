@@ -11,20 +11,15 @@
   &nbsp; &nbsp; &nbsp; &nbsp;
   <a href="https://github.com/TheCosmosSeries/CosmosLibrary" target="_blank" style="text-decoration:none"><img alt="CosmosLibrary" src="https://github.com/user-attachments/assets/fae090d0-d4d2-438f-8e98-6c15e23ea540" width="45%"></a>
 </p>
-<!--
-<p align="center">
-  <a href="https://github.com/TheCosmosSeries/CosmosIndustry" target="_blank" style="text-decoration:none"><img alt="CosmosIndustry" src="https://github.com/user-attachments/assets/814643c9-d61d-42f6-ac1c-6aacefc0282e" width="45%"></a>
-  &nbsp; &nbsp; &nbsp; &nbsp;
-  <a href="https://github.com/TheCosmosSeries/CosmosUtilities" target="_blank" style="text-decoration:none"><img alt="CosmosUtilities" src="https://github.com/user-attachments/assets/5036ce07-6419-41dd-9924-e9b51248e3e8" width="45%"></a>
-</p>
---!>
 
 <p align="center">
   <a href="https://github.com/TheCosmosSeries/CosmosDecorations" target="_blank" style="text-decoration:none"><img alt="CosmosDecorations" src="https://github.com/user-attachments/assets/ad412e14-c17a-4f9f-a3a1-df2961b3bf66" width="45%"></a>
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <a href="https://github.com/TheCosmosSeries/CosmosIndustry" target="_blank" style="text-decoration:none"><img alt="CosmosIndustry" src="https://github.com/user-attachments/assets/814643c9-d61d-42f6-ac1c-6aacefc0282e" width="45%"></a>
 </p>
 &nbsp; &nbsp; &nbsp; &nbsp;
 
-![Version](https://img.shields.io/badge/VERSION-1.21.1-3eff8e?style=for-the-badge) ![Loader](https://img.shields.io/badge/Loader-NeoForge-ffa835?style=for-the-badge) ![Mods](https://img.shields.io/badge/Mods-4-blue?style=for-the-badge) ![Packs](https://img.shields.io/badge/Packs-1-lightblue?style=for-the-badge)
+![Version](https://img.shields.io/badge/VERSION-1.21.1-3eff8e?style=for-the-badge) ![Loader](https://img.shields.io/badge/Loader-NeoForge-ffa835?style=for-the-badge) ![Mods](https://img.shields.io/badge/Mods-5-blue?style=for-the-badge) ![Packs](https://img.shields.io/badge/Packs-1-lightblue?style=for-the-badge)
 
 # **The Cosmos Series**
 
