@@ -4,8 +4,13 @@
 <p align="center">
   <a href="https://github.com/TheCosmosSeries/DimensionalPocketsII" target="_blank" style="text-decoration:none"><img alt="DimensionalPocketsII" src="https://github.com/user-attachments/assets/3f576362-bbd2-4de4-a951-ac1b50da1c9f" width="45%"></a>
   &nbsp; &nbsp; &nbsp; &nbsp;
+  <a href="https://github.com/TheCosmosSeries/DimensionalPocketsIICoreEdition" target="_blank" style="text-decoration:none"><img alt="DimensionalPocketsIICoreEdition" src="https://github.com/user-attachments/assets/044ac9c4-b998-47d8-a3af-bb377df86ca3" width="45%"></a>
+</p>
+
+<p align="center">
   <a href="https://github.com/TheCosmosSeries/DimensionalPocketsII16x" target="_blank" style="text-decoration:none"><img alt="DimensionalPocketsII16x" src="https://github.com/user-attachments/assets/760bcc37-69f4-4c8c-bb44-038425d29d49" width="45%"></a>
 </p>
+
 <p align="center">
   <a href="https://github.com/TheCosmosSeries/CosmosPortals" target="_blank" style="text-decoration:none"><img alt="CosmosPortals" src="https://github.com/user-attachments/assets/c0c90228-52a7-4aef-8540-19cba86220d0" width="45%"></a>
   &nbsp; &nbsp; &nbsp; &nbsp;
@@ -19,7 +24,7 @@
 </p>
 &nbsp; &nbsp; &nbsp; &nbsp;
 
-![Version](https://img.shields.io/badge/VERSION-1.21.1-3eff8e?style=for-the-badge) ![Loader](https://img.shields.io/badge/Loader-NeoForge-ffa835?style=for-the-badge) ![Mods](https://img.shields.io/badge/Mods-5-blue?style=for-the-badge) ![Packs](https://img.shields.io/badge/Packs-1-lightblue?style=for-the-badge)
+![Version](https://img.shields.io/badge/VERSION-1.21.1-3eff8e?style=for-the-badge) ![Loader](https://img.shields.io/badge/Loader-NeoForge-ffa835?style=for-the-badge) ![Mods](https://img.shields.io/badge/Mods-6-blue?style=for-the-badge) ![Packs](https://img.shields.io/badge/Packs-1-lightblue?style=for-the-badge)
 
 # **The Cosmos Series**
 
