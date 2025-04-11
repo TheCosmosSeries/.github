@@ -31,7 +31,7 @@
 
 &nbsp; &nbsp; &nbsp; &nbsp;
 
-![Version](https://img.shields.io/badge/VERSION-1.21.1-3eff8e?style=for-the-badge) ![Loader](https://img.shields.io/badge/Loader-NeoForge-ffa835?style=for-the-badge) ![Mods](https://img.shields.io/badge/Mods-7-blue?style=for-the-badge) ![Packs](https://img.shields.io/badge/Packs-1-lightblue?style=for-the-badge)
+![Version](https://img.shields.io/badge/VERSION-1.21.1-3eff8e?style=for-the-badge) ![Loader](https://img.shields.io/badge/Loader-NeoForge-ffa835?style=for-the-badge) ![Mods](https://img.shields.io/badge/Mods-7-blue?style=for-the-badge) ![Packs](https://img.shields.io/badge/Packs-2-lightblue?style=for-the-badge)
 
 # **The Cosmos Series**
 
