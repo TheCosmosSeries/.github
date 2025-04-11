@@ -26,11 +26,12 @@
 <p align="center">
   <a href="https://github.com/TheCosmosSeries/CosmosIndustry" target="_blank" style="text-decoration:none"><img alt="CosmosIndustry" src="https://github.com/user-attachments/assets/814643c9-d61d-42f6-ac1c-6aacefc0282e" width="45%"></a>
 &nbsp; &nbsp; &nbsp; &nbsp;
+  <a href="https://github.com/TheCosmosSeries/CosmosBeam" target="_blank" style="text-decoration:none"><img alt="CosmosBeam" src="https://github.com/user-attachments/assets/29241b41-462e-4c7c-90b5-681e62ec1adc" width="45%"></a>
 </p>
 
 &nbsp; &nbsp; &nbsp; &nbsp;
 
-![Version](https://img.shields.io/badge/VERSION-1.21.1-3eff8e?style=for-the-badge) ![Loader](https://img.shields.io/badge/Loader-NeoForge-ffa835?style=for-the-badge) ![Mods](https://img.shields.io/badge/Mods-6-blue?style=for-the-badge) ![Packs](https://img.shields.io/badge/Packs-1-lightblue?style=for-the-badge)
+![Version](https://img.shields.io/badge/VERSION-1.21.1-3eff8e?style=for-the-badge) ![Loader](https://img.shields.io/badge/Loader-NeoForge-ffa835?style=for-the-badge) ![Mods](https://img.shields.io/badge/Mods-7-blue?style=for-the-badge) ![Packs](https://img.shields.io/badge/Packs-1-lightblue?style=for-the-badge)
 
 # **The Cosmos Series**
 
